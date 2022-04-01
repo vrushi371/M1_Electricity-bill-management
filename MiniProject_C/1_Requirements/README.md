@@ -22,7 +22,7 @@ In addition, high-end electricity bill calculators generally include:
 **
 ` `This is the plot of cost of the calculators in ($ ) and time in  years
 
-[README.md](https://github.com/Chetanshidling1999/Electricitybillingsystem/files/7120418/README.md)
+![Aspose Words 088b8439-ce94-4b00-aac5-64487bb801e5 001](https://user-images.githubusercontent.com/89764315/132320020-ab527da5-1522-4eb4-b645-75367eb9363a.png)
 
 
 [https://www.researchgate.net/profile/Lili\_Liu4/publication/329653747/figure/fig4/AS:723817190137857@1549582874490/Cost-of-computing-over-time-Illustration-by-Naomi-Brierley.jpg]
@@ -57,17 +57,21 @@ Threats: Slower growth in an innovation always threat for the company in this dy
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
-|`    `HL01|` `Electricity bill calculation at industries|Implemented|
-|`    `HL02|` `Electricity bill calculation at agriculture|Implemented|
-|`    `HL03|` `Units consumed per year|Implemented|
-|`    `HL04|` `Calculates total industrial loads|Implemented|
+|`    `HL01|` `Electricity bill calculation at Urban areas if(units<30) | Implemented |
+|`    `HL02|` `Electricity bill calculation at Urban areas if(units>30 && units <100)| Implemented |
+|`    `HL03|` `Electricity bill calculation at Urban areas if(units>101 && units <200) | Implemented |
+|`    `HL04|` `Electricity bill calculation at Urban areas if(units<200)| Implemented |
+|`    `HL05|` `Electricity bill calculation at Rural areas if(units<30) | Implemented |
+|`    `HL06|` `Electricity bill calculation at Rural areas if(units>30 && units <100)| Implemented |
+|`    `HL07|` `Electricity bill calculation at Rural areas if(units>101 && units <200) | Implemented |
+|`    `HL08|` `Electricity bill calculation at Rural areas if(units<200)| Implemented |
 
 ` `**Low level Requirements:**
 
 |`      `**ID**|`                 `**Description**|`            `**Status**|
 | :- | :- | :- |
-|LL01\_HL01|` `Calculates electricity bill at rural areas|Implemented|
-|LL02\_HL02|` `Calculates electricity bill at urban areas|Implemented|
-|LL03\_HL03|` `Calculates total load at domestics places|Implemented|
-|LL04|` `Calculates total unit consumed at domestics places|Implemented|
+|LL01\_HL01|` `Calculates electricity bill at rural areas| Implemented |
+|LL02\_HL02|` `Calculates electricity bill at urban areas|Implemented |
+|LL03\_HL03|` `Calculates total load at domestics places|Implemented |
+|LL04|` `Calculates total unit consumed at domestics places| Implemented |
 
